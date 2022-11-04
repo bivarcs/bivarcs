@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @bivarcs
 - Hello world!
+- I like JavaScript!
+- I'm learning Typescript these days.
